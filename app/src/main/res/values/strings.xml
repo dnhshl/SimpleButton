@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleButton</string>
+    <string name="SimpleButton">Drück mich!</string>
+    <string name="SimpleButton2">Danke fürs drücken</string> />
+</resources>
